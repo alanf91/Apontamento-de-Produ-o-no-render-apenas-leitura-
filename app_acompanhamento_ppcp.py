@@ -2693,7 +2693,7 @@ def main() -> None:
     )
     st.sidebar.caption(
         "As três telas de consulta são públicas. "
-        "Os apontamentos de produção e paradas são protegidos pelo login pcp/pcp."
+        "Os apontamentos de produção e paradas são protegidos."
     )
     renderizar_status_acesso()
 
